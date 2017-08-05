@@ -7,21 +7,63 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		530C54C11F2742E5006A97D0 /* OptionalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 530C54C01F2742E5006A97D0 /* OptionalViewController.swift */; };
+		532FD85F1F26009500C0E55E /* DictionaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 532FD85E1F26009500C0E55E /* DictionaryViewController.swift */; };
+		532FD8611F262ECD00C0E55E /* RangeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 532FD8601F262ECD00C0E55E /* RangeViewController.swift */; };
+		533498451F28455D00E9C9AB /* CastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 533498441F28455D00E9C9AB /* CastViewController.swift */; };
+		534F661F1F2B0FC200E9D8C7 /* ControlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534F661E1F2B0FC200E9D8C7 /* ControlViewController.swift */; };
+		534F66211F2B3B2200E9D8C7 /* PatternMatchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534F66201F2B3B2200E9D8C7 /* PatternMatchViewController.swift */; };
+		534F66231F2B487200E9D8C7 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534F66221F2B487200E9D8C7 /* ViewController3.swift */; };
+		534F66251F2B4A3A00E9D8C7 /* FuncViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534F66241F2B4A3A00E9D8C7 /* FuncViewController.swift */; };
+		534F66271F2B4A6D00E9D8C7 /* ClosureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534F66261F2B4A6D00E9D8C7 /* ClosureViewController.swift */; };
 		53811DA11F24B92700D45961 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53811DA01F24B92700D45961 /* AppDelegate.swift */; };
 		53811DA31F24B92700D45961 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53811DA21F24B92700D45961 /* ViewController.swift */; };
 		53811DA61F24B92700D45961 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53811DA41F24B92700D45961 /* Main.storyboard */; };
 		53811DA81F24B92700D45961 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53811DA71F24B92700D45961 /* Assets.xcassets */; };
 		53811DAB1F24B92700D45961 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53811DA91F24B92700D45961 /* LaunchScreen.storyboard */; };
+		53811DB51F24BD0F00D45961 /* CharacterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53811DB41F24BD0F00D45961 /* CharacterViewController.swift */; };
+		53811DBD1F25DEF900D45961 /* ArrayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53811DBC1F25DEF900D45961 /* ArrayViewController.swift */; };
+		538C11111F2A0FAC006533BF /* SwitchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538C11101F2A0FAC006533BF /* SwitchViewController.swift */; };
+		538C11131F2A1DAD006533BF /* ForViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538C11121F2A1DAD006533BF /* ForViewController.swift */; };
+		538C11151F2A3CAE006533BF /* WhileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538C11141F2A3CAE006533BF /* WhileViewController.swift */; };
+		53F4F7601F27853100177DCF /* AnyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F4F75F1F27853100177DCF /* AnyViewController.swift */; };
+		53F4F7621F27869600177DCF /* TupleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F4F7611F27869600177DCF /* TupleViewController.swift */; };
+		53F981CE1F28ADE900F7119A /* IfViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F981CD1F28ADE900F7119A /* IfViewController.swift */; };
+		53F981D01F28AF0A00F7119A /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F981CF1F28AF0A00F7119A /* TestViewController.swift */; };
+		53F981D21F28B02F00F7119A /* ViewControllerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F981D11F28B02F00F7119A /* ViewControllerTest.swift */; };
+		53F981D41F28B88200F7119A /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F981D31F28B88200F7119A /* ViewController2.swift */; };
+		53F981D61F28DEB300F7119A /* GuardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F981D51F28DEB300F7119A /* GuardViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		530C54C01F2742E5006A97D0 /* OptionalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = OptionalViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/OptionalViewController.swift"; sourceTree = "<absolute>"; };
+		532FD85E1F26009500C0E55E /* DictionaryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DictionaryViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/DictionaryViewController.swift"; sourceTree = "<absolute>"; };
+		532FD8601F262ECD00C0E55E /* RangeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RangeViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/RangeViewController.swift"; sourceTree = "<absolute>"; };
+		533498441F28455D00E9C9AB /* CastViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CastViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/CastViewController.swift"; sourceTree = "<absolute>"; };
+		534F661E1F2B0FC200E9D8C7 /* ControlViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ControlViewController.swift; sourceTree = "<group>"; };
+		534F66201F2B3B2200E9D8C7 /* PatternMatchViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PatternMatchViewController.swift; sourceTree = "<group>"; };
+		534F66221F2B487200E9D8C7 /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		534F66241F2B4A3A00E9D8C7 /* FuncViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FuncViewController.swift; sourceTree = "<group>"; };
+		534F66261F2B4A6D00E9D8C7 /* ClosureViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClosureViewController.swift; sourceTree = "<group>"; };
 		53811D9D1F24B92700D45961 /* MyPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		53811DA01F24B92700D45961 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		53811DA21F24B92700D45961 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		53811DA51F24B92700D45961 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		53811DA71F24B92700D45961 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		53811DA71F24B92700D45961 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/Assets.xcassets"; sourceTree = "<absolute>"; };
 		53811DAA1F24B92700D45961 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		53811DAC1F24B92700D45961 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53811DB41F24BD0F00D45961 /* CharacterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CharacterViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/CharacterViewController.swift"; sourceTree = "<absolute>"; };
+		53811DBC1F25DEF900D45961 /* ArrayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ArrayViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/ArrayViewController.swift"; sourceTree = "<absolute>"; };
+		538C11101F2A0FAC006533BF /* SwitchViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwitchViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/SwitchViewController.swift"; sourceTree = "<absolute>"; };
+		538C11121F2A1DAD006533BF /* ForViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ForViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/ForViewController.swift"; sourceTree = "<absolute>"; };
+		538C11141F2A3CAE006533BF /* WhileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WhileViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/WhileViewController.swift"; sourceTree = "<absolute>"; };
+		53F4F75F1F27853100177DCF /* AnyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AnyViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/AnyViewController.swift"; sourceTree = "<absolute>"; };
+		53F4F7611F27869600177DCF /* TupleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TupleViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/TupleViewController.swift"; sourceTree = "<absolute>"; };
+		53F981CD1F28ADE900F7119A /* IfViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = IfViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/IfViewController.swift"; sourceTree = "<absolute>"; };
+		53F981CF1F28AF0A00F7119A /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TestViewController.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/TestViewController.swift"; sourceTree = "<absolute>"; };
+		53F981D11F28B02F00F7119A /* ViewControllerTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewControllerTest.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/ViewControllerTest.swift"; sourceTree = "<absolute>"; };
+		53F981D31F28B88200F7119A /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController2.swift; path = "/Users/Yuki.K/Desktop/Xcode系/XcodeApplications/MyPractice/MyPractice/ViewController2.swift"; sourceTree = "<absolute>"; };
+		53F981D51F28DEB300F7119A /* GuardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GuardViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +98,27 @@
 			children = (
 				53811DA01F24B92700D45961 /* AppDelegate.swift */,
 				53811DA21F24B92700D45961 /* ViewController.swift */,
+				53811DB41F24BD0F00D45961 /* CharacterViewController.swift */,
+				53811DBC1F25DEF900D45961 /* ArrayViewController.swift */,
+				532FD85E1F26009500C0E55E /* DictionaryViewController.swift */,
+				532FD8601F262ECD00C0E55E /* RangeViewController.swift */,
+				530C54C01F2742E5006A97D0 /* OptionalViewController.swift */,
+				53F4F75F1F27853100177DCF /* AnyViewController.swift */,
+				53F4F7611F27869600177DCF /* TupleViewController.swift */,
+				533498441F28455D00E9C9AB /* CastViewController.swift */,
+				53F981D31F28B88200F7119A /* ViewController2.swift */,
+				53F981CD1F28ADE900F7119A /* IfViewController.swift */,
+				53F981D51F28DEB300F7119A /* GuardViewController.swift */,
+				538C11101F2A0FAC006533BF /* SwitchViewController.swift */,
+				538C11121F2A1DAD006533BF /* ForViewController.swift */,
+				538C11141F2A3CAE006533BF /* WhileViewController.swift */,
+				534F661E1F2B0FC200E9D8C7 /* ControlViewController.swift */,
+				534F66201F2B3B2200E9D8C7 /* PatternMatchViewController.swift */,
+				534F66221F2B487200E9D8C7 /* ViewController3.swift */,
+				534F66241F2B4A3A00E9D8C7 /* FuncViewController.swift */,
+				534F66261F2B4A6D00E9D8C7 /* ClosureViewController.swift */,
+				53F981D11F28B02F00F7119A /* ViewControllerTest.swift */,
+				53F981CF1F28AF0A00F7119A /* TestViewController.swift */,
 				53811DA41F24B92700D45961 /* Main.storyboard */,
 				53811DA71F24B92700D45961 /* Assets.xcassets */,
 				53811DA91F24B92700D45961 /* LaunchScreen.storyboard */,
@@ -137,8 +200,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				532FD85F1F26009500C0E55E /* DictionaryViewController.swift in Sources */,
+				538C11131F2A1DAD006533BF /* ForViewController.swift in Sources */,
+				53F4F7601F27853100177DCF /* AnyViewController.swift in Sources */,
+				53F981D21F28B02F00F7119A /* ViewControllerTest.swift in Sources */,
+				53F4F7621F27869600177DCF /* TupleViewController.swift in Sources */,
+				534F66231F2B487200E9D8C7 /* ViewController3.swift in Sources */,
+				533498451F28455D00E9C9AB /* CastViewController.swift in Sources */,
+				53811DB51F24BD0F00D45961 /* CharacterViewController.swift in Sources */,
+				538C11111F2A0FAC006533BF /* SwitchViewController.swift in Sources */,
+				538C11151F2A3CAE006533BF /* WhileViewController.swift in Sources */,
+				534F66251F2B4A3A00E9D8C7 /* FuncViewController.swift in Sources */,
+				530C54C11F2742E5006A97D0 /* OptionalViewController.swift in Sources */,
+				534F66271F2B4A6D00E9D8C7 /* ClosureViewController.swift in Sources */,
+				534F66211F2B3B2200E9D8C7 /* PatternMatchViewController.swift in Sources */,
+				53F981D41F28B88200F7119A /* ViewController2.swift in Sources */,
+				532FD8611F262ECD00C0E55E /* RangeViewController.swift in Sources */,
 				53811DA31F24B92700D45961 /* ViewController.swift in Sources */,
+				534F661F1F2B0FC200E9D8C7 /* ControlViewController.swift in Sources */,
+				53F981D61F28DEB300F7119A /* GuardViewController.swift in Sources */,
+				53811DBD1F25DEF900D45961 /* ArrayViewController.swift in Sources */,
 				53811DA11F24B92700D45961 /* AppDelegate.swift in Sources */,
+				53F981D01F28AF0A00F7119A /* TestViewController.swift in Sources */,
+				53F981CE1F28ADE900F7119A /* IfViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +347,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 7KBT9HS966;
 				INFOPLIST_FILE = MyPractice/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lit.yuki.mypractice.MyPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,6 +361,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 7KBT9HS966;
 				INFOPLIST_FILE = MyPractice/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lit.yuki.mypractice.MyPractice;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -302,6 +388,7 @@
 				53811DB11F24B92700D45961 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
